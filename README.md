@@ -5,8 +5,6 @@
 
 🎓 I got a bachelor's degree in Computer Engineering from [KTO Karatay University][uni]
 
-🪓 Depth Dwellers Board Member from [Anticverse][av]
-
 💻
 - Working with  Python, HTML, CSS, React JavaScript, LaTeX. 
 - Can utilize Git, ClickUp, GitHub Projects and several other tools and platforms for team coordination & project development.
