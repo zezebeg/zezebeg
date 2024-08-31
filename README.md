@@ -22,7 +22,4 @@ Certified in ISO 27001, CyberOps Associate, CCNAv7, and other relevant fields, w
 Feel free to reach out via [LinkedIn][in] or email me at [zbegumkaplan003@gmail.com][mail] for collaborations or opportunities!
 
 
-Impressed by the aesthetics? Elevate your profile with this template. Just follow [this quick guide](tutorial.md) and give your GitHub profile a subtle yet cool touch.
-
-
  [in]: https://www.linkedin.com/in/zeynepbegumkaplan/ "My LinkedIn profile"
