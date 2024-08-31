@@ -14,7 +14,6 @@ I also have hands-on experience with Java, Assembly, C/C++, and tools like Wires
 🚀 Work & Projects:
 Currently working as a Part-Time Software Engineer at Uponte Bilgi Sistemleri, focusing on e-commerce systems, particularly e-invoicing and e-archive solutions.
 Contributed to various projects including a SOC Automation Project and a XSS Scanner to enhance system security.
-Involved in backend development for the Bil-Port Project, a finance-focused AI initiative supported by Bilişim Vadisi.
 
 🏅 Certifications & Achievements:
 Certified in ISO 27001, CyberOps Associate, CCNAv7, and other relevant fields, with practical experience gained from the Siber Vatan Bootcamp 2024.
@@ -27,5 +26,3 @@ Impressed by the aesthetics? Elevate your profile with this template. Just follo
 
 
  [in]: https://www.linkedin.com/in/zeynepbegumkaplan/ "My LinkedIn profile"
-
- 
