@@ -3,19 +3,25 @@
 
 <h1 align="center">Zeynep Begüm Kaplan</h1>
 
-🎓 I got a bachelor's degree in Computer Engineering from [KTO Karatay University][uni]
+🎓 I hold a bachelor's degree in Computer Engineering from KTO Karatay University with a strong focus on cybersecurity, software development, and network engineering.
 
-💻
-- Working with  Python, HTML, CSS, React JavaScript, LaTeX. 
-- Can utilize Git, ClickUp, GitHub Projects and several other tools and platforms for team coordination & project development.
-- Seasoned in Adobe Photoshop, Adobe Illustrator for image manipulation and vectoral graphic design.
+💻 Tech Stack & Tools:
+Experienced with Python, JavaScript, React, HTML, CSS, and SQL.
+Skilled in AWS Technologies, Sysmon, Wazuh, and Splunk for cybersecurity projects.
+Proficient in Postman for API integration and Git for version control.
+I also have hands-on experience with Java, Assembly, C/C++, and tools like Wireshark for network analysis.
 
+🚀 Work & Projects:
+Currently working as a Part-Time Software Engineer at Uponte Bilgi Sistemleri, focusing on e-commerce systems, particularly e-invoicing and e-archive solutions.
+Contributed to various projects including a SOC Automation Project and a XSS Scanner to enhance system security.
+Involved in backend development for the Bil-Port Project, a finance-focused AI initiative supported by Bilişim Vadisi.
 
-## <img src="https://raw.githubusercontent.com/fybx/fybx/main/compass.webp" width="35px" height="35px"> let's connect
+🏅 Certifications & Achievements:
+Certified in ISO 27001, CyberOps Associate, CCNAv7, and other relevant fields, with practical experience gained from the Siber Vatan Bootcamp 2024.
 
-You can directly reach me from my [LinkedIn][in] profile, don't hesitate to DM me! For business or privacy related reasons, you can e-mail me at [zbegumkaplan003@gmail.com][mail].
+📫 Let's Connect:
+Feel free to reach out via [LinkedIn][in] or email me at [zbegumkaplan003@gmail.com][mail] for collaborations or opportunities!
 
----
 
 Impressed by the aesthetics? Elevate your profile with this template. Just follow [this quick guide](tutorial.md) and give your GitHub profile a subtle yet cool touch.
 
